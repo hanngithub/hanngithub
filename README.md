@@ -1,7 +1,7 @@
 # ```Alphabot-Api```
 <p align="center">
-<a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/api-mirip-zeks/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeone-ofc/api-mirip-zeks?color=blue&style=flat-square"></a>
+<a href="https://github.com/hanngitub/followers"><img title="Followers" src="https://img.shields.io/github/followers/hannhithub?color=red&style=flat-square"></a>
+<a href="https://github.com/hanngithub/api-mirip-zeks/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeone-ofc/api-mirip-zeks?color=blue&style=flat-square"></a>
 <a href="https://github.com/zeeone-ofc/api-mirip-zeks/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeone-ofc/api-mirip-zeks?color=red&style=flat-square"></a>
 <a href="https://github.com/zeeone-ofc/api-mirip-zeks/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeone-ofc/api-mirip-zeks?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/zeeone-ofc/api-mirip-zeks"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
